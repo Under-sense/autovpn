@@ -1,6 +1,7 @@
 #!/bin/bash
 if [[ "$EUID" -eq "0" ]]
 then
+echo
 else
 echo "You must be root to run this."
 exit 0
