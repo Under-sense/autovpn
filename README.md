@@ -5,3 +5,6 @@ Auto windscribe-cli vpn installer for kali linux 2021.1
     cd vpn4kali
     chmod +x ./install.sh
     sudo ./install.sh
+
+# You're need to have windscribe account.
+    https://windscribe.com/signup
